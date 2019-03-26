@@ -1,0 +1,149 @@
+{
+	"btnAllow": {
+		"IOS" : "xpath=//XCUIElementTypeAlert//XCUIElementTypeButton[@name='Allow']"
+	},
+	"btnSubmit": {
+		"IOS": "id=Submit"
+	},
+	"btnVaccination": {
+		"IOS": "id=Vaccination"
+	},
+	"btnCheckup": {
+		"IOS": "id=Check-up"
+	},
+	"btnFitness": {
+		"IOS": "id=Fitness"
+	},
+	"btnProcedures": {
+		"IOS": "id=Procedures"
+	},
+	"btnDone": {
+		"IOS": "xpath=//XCUIElementTypeButton[contains(@value,'Done')]"
+	},
+	"btnEnterClinic": {
+		"IOS": "id=Enter Clinic"
+	},
+	"btnNewPatient": {
+		"IOS": "id=6"
+	},
+	"txtFirstName": {
+		"IOS": "xpath=//XCUIElementTypeTextField[contains(@value,'First Name')]"
+	},
+	"txtMobileNumber": {
+		"IOS": "xpath=//XCUIElementTypeTextField[contains(@value,'Mobile Number')]"
+	},
+	"txtAge": {
+		"IOS": "xpath=//XCUIElementTypeTextField[contains(@value,'Age')]"
+	},
+	"btnSave": {
+		"IOS": "id=Save"
+	},
+	"btnConsult": {
+		"IOS": "id=Start Consult"
+	},
+	"btnHyperthyroidism": {
+		"IOS": "id=Hypothyroidism"
+	},
+	"btnTreat": {
+		"IOS": "id=Treat"
+	},
+	"btnCap1": {
+		"IOS": "id=Rabicip D"
+	},
+	"btnCap2": {
+		"IOS": "id=Polynuron D"
+	},
+	"btnClose": {
+		"IOS": "id=g Close"
+	},
+	"btnInvestigations": {
+		"IOS": "id=Investigations"
+	},
+	"txtCBC": {
+		"IOS": "xpath=//XCUIElementTypeStaticText[contains(@value,'CBC')]"
+	},
+	"txtLipid": {
+		"IOS": "xpath=//XCUIElementTypeStaticText[contains(@value,'Lipid')]"
+	},
+	"btnBill": {
+		"IOS": "id=Bill!"
+	},
+	"btnfollowUpOneWeek": {
+		"IOS": "id=1w"
+	},
+	"btnRxSave": {
+		"IOS": "id=N Save"
+	},
+	"txtSam":{
+		"IOS": "xpath=//XCUIElementTypeCell//XCUIElementTypeStaticText[@value='Sam']"
+	},
+	"txtPatient":{
+		"IOS": "xpath=//XCUIElementTypeCell//XCUIElementTypeStaticText"
+	},
+	"btnAddInvestigation": {
+		"IOS": "id=Add investigation reports"
+	},
+	"btnXray": {
+		"IOS": "xpath=(//XCUIElementTypeStaticText/../../XCUIElementTypeTable//XCUIElementTypeCell)[3]"
+	},
+	"btnXRay": {
+		"IOS": "xpath=(//XCUIElementTypeStaticText/../../XCUIElementTypeTable//XCUIElementTypeCell)[1]"
+	},
+	"txtEnterValue": {
+		"IOS": "xpath=//XCUIElementTypeTextField[@value='Enter here']"
+	},
+	"btnPlus": {
+		"IOS": "xpath=//XCUIElementTypeStaticText[@value='Diagnosis']/../XCUIElementTypeButton"
+	},
+	"btnSearch": {
+		"IOS": "xpath=(//XCUIElementTypeSearchField)[1]"
+	},
+	"txtFoodPoisoning": {
+		"IOS": "id=Food Poisoning"
+	},
+	"btnAdd": {
+		"IOS": "id=Add"
+	},
+	"btnGrowth": {
+		"IOS": "id=Growth"
+	},
+	"btnAddData": {
+		"IOS": "id=Add data"
+	},
+	"btnSelect": {
+		"IOS": "id=Select"
+	},
+	"txtWeight": {
+		"IOS": "xpath=//XCUIElementTypeTextField[@value='Weight']"
+	},
+	"txtHeight": {
+		"IOS": "xpath=//XCUIElementTypeTextField[@value='Height']"
+	},
+	"txtOFC": {
+		"IOS": "xpath=//XCUIElementTypeTextField[@value='OFC']"
+	},
+	"btnInstructionsAdd": {
+		"IOS": "xpath=//XCUIElementTypeButton[@value='Instructions']/following-sibling::XCUIElementTypeButton"
+	},
+	"btnLowFat": {
+		"IOS": "id=Low fat in diet"
+	},
+	"btnLowSalt": {
+		"IOS": "id=Low Salt in diet"
+	},
+	"btnfollowUpThreeMonths": {
+		"IOS": "id=3m"
+	},
+	"btnGeneralWeakness": {
+		"IOS": "id=General weakness"
+	},
+	"btnBodyache": {
+		"IOS": "id=Bodyache"
+	},
+	"btnHeadache": {
+		"IOS": "id=Headache"
+	},
+	"btnSurgery": {
+		"IOS": "id=Surgery"
+	}
+}

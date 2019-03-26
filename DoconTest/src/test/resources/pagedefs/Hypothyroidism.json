@@ -1,0 +1,83 @@
+{
+	"btnAllow": {
+		"IOS" : "xpath=//XCUIElementTypeButton[@value='Allow']"
+	},
+	"btnSubmit": {
+		"IOS": "id=Submit"
+	},
+	"btnDone": {
+		"IOS": "xpath=//XCUIElementTypeButton[contains(@value,'Done')]"
+	},
+	"btnEnterClinic": {
+		"IOS": "id=Enter Clinic"
+	},
+	"btnNewPatient": {
+		"IOS": "id=6"
+	},
+	"txtFirstName": {
+		"IOS": "xpath=//XCUIElementTypeTextField[contains(@value,'First Name')]"
+	},
+	"txtMobileNumber": {
+		"IOS": "xpath=//XCUIElementTypeTextField[contains(@value,'Mobile Number')]"
+	},
+	"txtAge": {
+		"IOS": "xpath=//XCUIElementTypeTextField[contains(@value,'Age')]"
+	},
+	"btnSave": {
+		"IOS": "id=Save"
+	},
+	"btnConsult": {
+		"IOS": "id=Start Consult"
+	},
+	"btnHyperthyroidism": {
+		"IOS": "id=Hypothyroidism"
+	},
+	"btnTreat": {
+		"IOS": "id=Treat"
+	},
+	"btnCap1": {
+		"IOS": "id=Rabicip D"
+	},
+	"btnCap2": {
+		"IOS": "id=Polynuron D"
+	},
+	"btnClose": {
+		"IOS": "xpath=//XCUIElementTypeButton[contains(@value,'Close')]"
+	},
+	"btnInvestigations": {
+		"IOS": "id=Investigations"
+	},
+	"txtCBC": {
+		"IOS": "xpath=//XCUIElementTypeStaticText[contains(@value,'CBC')]"
+	},
+	"txtLipid": {
+		"IOS": "xpath=//XCUIElementTypeStaticText[contains(@value,'Lipid')]"
+	},
+	"btnBill": {
+		"IOS": "xpath=(//XCUIElementTypeButton[contains(@value,'Bill')])[2]"
+	},
+	"btnfollowUp": {
+		"IOS": "id=1w"
+	},
+	"btnRxSave": {
+		"IOS": "xpath=//XCUIElementTypeButton[contains(@value,'N Save')]"
+	},
+	"txtSam":{
+		"IOS": "xpath=//XCUIElementTypeCell//XCUIElementTypeStaticText[@value='Sam']"
+	},
+	"txtPatient":{
+		"IOS": "xpath=//XCUIElementTypeCell//XCUIElementTypeStaticText"
+	},
+	"btnAddInvestigation": {
+		"IOS": "id=Add investigation reports"
+	},
+	"btnInsulin": {
+		"IOS": "xpath=(((//*[@class='UIAView' and ./parent::*[@class='UIAView' and ./parent::*[@class='UIAView' and ./parent::*[@class='UIAView' and ./parent::*[@class='UIAView' and ./parent::*[@class='UIAView']]]]]]/*/*/*[@class='UIATable'])[1]/*[@class='UIAView'])[4]/*[@class='UIAView' and @height>0])[1]"
+	},
+	"txtEnterValue": {
+		"IOS": "xpath=//XCUIElementTypeTextField[@value='Enter here']"
+	},
+	"btnXray": {
+		"IOS": "xpath=(((//*[@class='UIAView' and ./parent::*[@class='UIAView' and ./parent::*[@class='UIAView' and ./parent::*[@class='UIAView' and ./parent::*[@class='UIAView' and ./parent::*[@class='UIAView']]]]]]/*/*/*[@class='UIATable'])[1]/*[@class='UIAView'])[2]/*[@class='UIAView' and @height>0])[2]"
+	}
+}

@@ -1,0 +1,23 @@
+{	
+	"txtEmail": {
+		"IOS": "xpath=//XCUIElementTypeTextField"
+	}, 
+	"btnProceed":{
+		"IOS": "id=Proceed"	
+	},
+	"txtPassword":{
+		"IOS": "xpath=//XCUIElementTypeSecureTextField"
+	},
+	"btnBack":{
+		"IOS": "id=y"
+	},
+	"btnSignIn":{
+		"IOS": "id=Sign in"
+	},
+	"btnPin":{
+		"IOS": "xpath=//XCUIElementTypeButton[@value='PinButton4']"
+	},
+	"txtPasscode":{
+		"IOS": "xpath=//XCUIElementTypeStaticText[@value='Enter Passcode']"
+	}
+}
